@@ -1,4 +1,4 @@
-### Smol Pinterest Page
+# Smol Pinterest Page
 
 ## What can you do?
 - view a beautiful piece of art
