@@ -6,4 +6,3 @@
 - click follow to follow the page (followers are 1.6M that's why you don't see the change made by you clicking on "follow" button, it's because you basically don't make much change)
 - click on heart button to say you like the art and it becomes red
 - you can undo everything said above (for eternity)
-h
